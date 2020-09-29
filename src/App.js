@@ -4,7 +4,7 @@ import './App.css';
 import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import Login from './components/Login';
 
-import { Auth0Provider } from '@auth0/auth0-react';
+
 import HomePage from './components/HomePage';
 import SignUp from './components/SignUp';
 import Dashboard from './components/Dashboard';
